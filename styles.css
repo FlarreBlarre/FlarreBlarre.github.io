@@ -23,15 +23,20 @@ h1 {
 	}
 }
 
+/* @media screen and (max-width: 480px) {
+    img {
+         width: 400px;
+    }
+} */
+
 .container {
 	border: 3px solid black;
 	border-radius: 10px;
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
-	align-content: center;
 	flex-wrap: wrap;
-	height: 120vh;
+	height: 100%;
 	background-color: black;
 	margin: auto;
   }
@@ -53,7 +58,6 @@ h1 {
 	width: 200px;
 	height: 250px;
 	border-radius: 60px;
-
   }
 
   /* .flex-box1 {
