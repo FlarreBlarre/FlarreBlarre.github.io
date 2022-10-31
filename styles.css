@@ -10,6 +10,24 @@ h1 {
     font-family: 'Creepster', cursive;
 }
 
+.p-text {
+	text-align: center;
+	text-indent: 45px;
+	font-size: x-large;
+	color: darkred;
+	font-family: 'Montserrat', sans-serif;
+}
+
+strong {
+	font-family: 'Lato';
+font-weight: 700;
+}
+
+figcaption {
+	color: #b2fc4e;
+	font-size: 2em;
+}
+
 #home {
     font-size: 2rem;
     font-family: Arial, Helvetica, sans-serif;
